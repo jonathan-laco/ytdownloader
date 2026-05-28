@@ -1,6 +1,7 @@
 # YouTube Downloader Pro (YTDOWNLOADER) 🚀
 
 Este projeto foi totalmente reestruturado e aprimorado para fornecer a **máxima velocidade de download**, a **melhor qualidade de áudio/vídeo possível** e uma **interface visual moderna e premium (Dark Mode)**. 
+<img width="889" height="913" alt="Captura de tela 2026-05-27 231029" src="https://github.com/user-attachments/assets/2ae3e52b-6cf3-4107-9907-3a6df7c39b52" />
 
 Agora, o projeto utiliza as bibliotecas mais recomendadas da indústria, garantindo alta estabilidade contra alterações de código do YouTube.
 
